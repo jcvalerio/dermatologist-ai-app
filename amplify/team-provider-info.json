@@ -1,0 +1,15 @@
+{
+  "main": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dermatologist-main-195526-authRole",
+      "UnauthRoleArn": "arn:aws:iam::901365392888:role/amplify-dermatologist-main-195526-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::901365392888:role/amplify-dermatologist-main-195526-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-dermatologist-main-195526-deployment",
+      "UnauthRoleName": "amplify-dermatologist-main-195526-unauthRole",
+      "StackName": "amplify-dermatologist-main-195526",
+      "StackId": "arn:aws:cloudformation:us-east-1:901365392888:stack/amplify-dermatologist-main-195526/5dfa4eb0-7afa-11eb-9646-12cf2806950f",
+      "AmplifyAppId": "d2kpxmjqecfy1n"
+    }
+  }
+}
