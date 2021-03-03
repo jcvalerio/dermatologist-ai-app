@@ -1,0 +1,5 @@
+type Prediction @model {
+  id: ID!
+  name: String!
+  description: String
+}
